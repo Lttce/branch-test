@@ -1,1 +1,3 @@
-Branch testing repository
+# Branch testing repository
+
+Some explanations.
